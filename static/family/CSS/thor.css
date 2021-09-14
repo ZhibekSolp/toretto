@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+aside{
+    float: center;
+    with: 100%;
+    color: blue
+}
+
+aside img{
+    width:70%;
+    margin:0 5%;
+}
